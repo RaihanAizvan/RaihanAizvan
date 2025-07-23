@@ -1,5 +1,5 @@
-<h1 align="center">Hola Amigo, Me hei Raihan</h1>
-<h3 align="center">MERN Stack Dev</h3>
+<h1 align="center">Hola Amigo, Soy Raihan</h1>
+<h3 align="center">MERN Wired</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
