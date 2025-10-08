@@ -216,9 +216,6 @@ const Me = {
 
 <div align="center">
 
-###  ***"Code is Poetry. I'm the Poet."***
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 ###  ***Profile Views*** 
 ![Profile Views](https://komarev.com/ghpvc/?username=RaihanAizvan&color=blueviolet&style=for-the-badge)
