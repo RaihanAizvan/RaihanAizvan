@@ -16,9 +16,9 @@ jobs:
           github_user_name: RaihanAizvan
           outputs: dist/snake.svg
           color: "51f565"          # snake color (lime green)
-          background: "000000"     # black background
-          grid: false               # hide grid
-          theme: "dark"
+          background: "transparent"
+          grid: true
+          theme: "light"
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
