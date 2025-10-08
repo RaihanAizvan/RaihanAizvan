@@ -17,7 +17,7 @@ jobs:
           outputs: dist/snake.svg
           color: "51f565"          # snake color (lime green)
           background: "transparent"
-          grid: true
+          grid: false
           theme: "light"
 
       - name: Push to output branch
