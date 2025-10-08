@@ -174,7 +174,12 @@ const Me = {
 
 <div align="center">
 
-![snake gif](https://github.com/RaihanAizvan/RaihanAizvan/blob/output/github-snake-dark.svg)
+| Contribution Stats | Years |
+|-------------------|-------|
+| ![snake](https://github.com/RaihanAizvan/RaihanAizvan/blob/output/github-snake-dark.svg) | 2025<br>2024<br>2023<br>2022 |
+
+
+
 
 ###  **Contribution Graph**
 [![Raihan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaihanAizvan&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/RaihanAizvan)
