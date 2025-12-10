@@ -1,8 +1,6 @@
 # <div align="center"> **MOHAMMED RAIHAN** </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Full+Stack+MERN+Developer;Building+Digital+Experiences;Code+%7C+Create+%7C+Conquer" alt="Typing SVG" />
-</div>
+
 
 
 
@@ -36,7 +34,7 @@ const Me = {
 
 <div align="center">
 
-###  **Current Mission: Building the Digital Future**
+###  **Where CREATIVITY meets devlopment**
 
 </div>
 
