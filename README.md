@@ -9,7 +9,9 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/> -->
+
+
 
 ```js
 const Me = {
@@ -40,31 +42,10 @@ const Me = {
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="32">&nbsp; ***Tech Arsenal*** 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="32">&nbsp; ***What you get from me*** 
 
 <div align="center">
-
-###  **Frontend**
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-
-###  **Backend **
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-
-###  **Tools & Environment**
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
+  <img src="https://skillicons.dev/icons?i=js,tailwind,html,css,bootstrap,vue,nuxt,next,react,nodejs,express,mongodb,mysql,postgres,git,github,postman,vscode&theme=dark" />
 </div>
 
 ---
@@ -77,93 +58,51 @@ const Me = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RaihanAizvan&show_icons=true&count_private=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&icon_color=8B949E&text_color=C9D1D9" width="49.5%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=RaihanAizvan&show_icons=true&count_private=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&icon_color=8B949E&text_color=C9D1D9" width="49.5%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaihanAizvan&theme=radical&border=7F3FBF&bg_color=0D1117" width="49.5%"/>
 
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaihanAizvan&langs_count=8&count_private=true&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=C9D1D9&icon_color=8B949E" width="49.5%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaihanAizvan&theme=high-contrast&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&area=true&hide_border=true" width="49.5%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaihanAizvan&theme=high-contrast&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&area=true&hide_border=true" width="49.5%"/> -->
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> ***Featured Projects***
-
-<div align="center">
-
-### 🎮 **Project Showcase**
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%">
-
-###  [ToyHub](https://github.com/RaihanAizvan/ToyHub)
-**Full-Stack E-commerce Platform**
-
-![ToyHub](https://img.shields.io/badge/-Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
- Complete toy e-commerce solution with authentication, cart functionality, admin dashboard, and integrated payment processing.
-
-</td>
-<td width="50%">
-
-###  [Nexus Chat](https://github.com/RaihanAizvan/NexusChat)
-**Real-time Chat Application**
-
-![Nexus](https://img.shields.io/badge/-Live%20Demo-4ECDC4?style=for-the-badge&logo=socket.io&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-⚡ Lightning-fast real-time messaging with Socket.IO, featuring private chats and seamless user experience.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-###  [Expenso](https://github.com/RaihanAizvan/Expenso)
-**Personal Finance Tracker**
-
-![Expenso](https://img.shields.io/badge/-Live%20Demo-FFD93D?style=for-the-badge&logo=chart.js&logoColor=black)
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
- Smart expense tracking with beautiful data visualizations and budget management features.
-
-</td>
-<td width="50%">
-
-###  [Legion](https://github.com/RaihanAizvan/Legion)
-**Minecraft Server Manager**
-
-![Legion](https://img.shields.io/badge/-Live%20Demo-45B7D1?style=for-the-badge&logo=minecraft&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-🎮 Web-based control panel for Minecraft servers with user management and gameplay analytics.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-###  **Coming Soon: PROJECT FUTION**
-*The ultimate fusion of everything learned - Big. Bold. Revolutionary.*
-
-![Coming Soon](https://img.shields.io/badge/-Coming%20Soon-8A2BE2?style=for-the-badge&logo=rocket&logoColor=white)
-
-</div>
-
+```zsh
+┌──────────────────────────────────────────────────────────────┐
+│ raihan@github:~/projects                                     │
+├──────────────────────────────────────────────────────────────┤
+│ $ whoami                                                     │
+│ Mohammed Raihan AS                                           │
+│                                                              │
+│ $ pwd                                                        │
+│ /home/raihan/projects                                        │
+│                                                              │
+│ $ ls                                                         │
+│ portfolio-app/     brototype-weeklies/   toyhub/             │
+│ nexus-chat/        system-design-notes/  open-source/        │
+│                                                              │
+│ $ tree -L 1                                                  │
+│ .                                                            │
+│ ├── portfolio-app        # Personal portfolio (React)        │
+│ ├── mern-ecommerce       # Full-stack MERN project           │
+│ ├── chat-app             # Real-time app (Socket.io)         │
+│ ├── brototype-weeklies   # Bootcamp tasks & progress         │
+│ ├── system-design-notes  # Architecture & scalability notes  │
+│ └── open-source          # OSS contributions & experiments   │
+│                                                              │
+│ $ git status                                                 │
+│ On branch main                                               │
+│ Your code is messy, but it works.                            │
+│                                                              │
+│ $ echo "Still building. Still learning."                     │
+│ Still building. Still learning.                              │
+│                                                              │
+│ $ █                                                          │
+└──────────────────────────────────────────────────────────────┘
+```
 ---
 
 
