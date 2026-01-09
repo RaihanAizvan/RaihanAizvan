@@ -7,7 +7,9 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
+<!--## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; --> 
+
+***About Me***
 
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/> -->
 
@@ -29,32 +31,33 @@ const Me = {
   currently_learning: [
     "Advanced React Patterns",
     "Microservices Architecture",
-    "DevOps & Cloud Technologies"
+    "DevOps & Cloud Technologies",
+    "threejs"
   ]
 }
 ```
 
-<div align="center">
+<!-- <div align="center">
 
 ###  **Where CREATIVITY meets devlopment**
 
+</div> -->
+
+
+
+<!--## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="32">&nbsp; ***What you get from me*** -->
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=arch,linux,js,tailwind,html,css,bootstrap,vue,nuxt,next,react,nodejs,express,mongodb,mysql,postgres,threejs,blender,git,github,postman,vscode&theme=dark" />
 </div>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="32">&nbsp; ***What you get from me*** 
+<!--## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b> -->
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,tailwind,html,css,bootstrap,vue,nuxt,next,react,nodejs,express,mongodb,mysql,postgres,git,github,postman,vscode&theme=dark" />
-</div>
+<!-- <div align="center"> -->
 
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaihanAizvan&theme=radical" width="100%"/>
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaihanAizvan&theme=radical" width="100%"/> -->
 
 <br/>
 
@@ -67,8 +70,6 @@ const Me = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaihanAizvan&theme=high-contrast&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&area=true&hide_border=true" width="49.5%"/> -->
 
 </div>
-
----
 
 ```zsh
 ┌──────────────────────────────────────────────────────────────┐
@@ -106,57 +107,83 @@ const Me = {
 ---
 
 
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;***Contribution Stats***
+***Find Me***
 
 <div align="center">
 
-| Contribution Stats | Years |
-|-------------------|-------|
-| ![snake](https://github.com/RaihanAizvan/RaihanAizvan/blob/output/github-snake-dark.svg) | 2025<br>2024<br>2023<br>2022 |
+<a href="https://www.linkedin.com/in/mohammedraihanas">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="38" />
+</a>
+<a href="mailto:mohammedraihanco@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="38" />
+</a>
+<a href="https://raihanaizvan.github.io/Porfolio">
+  <img src="https://skillicons.dev/icons?i=vercel" height="38" />
+</a>
+<a href="https://github.com/RaihanAizvan">
+  <img src="https://skillicons.dev/icons?i=github" height="38" />
+</a>
 
+<br/>
 
-
-
-###  **Contribution Graph**
-[![Raihan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaihanAizvan&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/RaihanAizvan)
+<a href="https://stackoverflow.com/users/22655498/mhd-raihan">
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="38" />
+</a>
+<a href="https://dev.to/ryhu10">
+  <img src="https://skillicons.dev/icons?i=devto" height="38" />
+</a>
+<a href="https://www.instagram.com/ryhu10">
+  <img src="https://skillicons.dev/icons?i=instagram" height="38" />
+</a>
+<a href="https://discord.com/users/ryhu10">
+  <img src="https://skillicons.dev/icons?i=discord" height="38" />
+</a>
+<a href="https://bitbucket.org/ryhu10">
+  <img src="https://skillicons.dev/icons?i=bitbucket" height="38" />
+</a>
+<a href="https://codepen.io/ryhu10">
+  <img src="https://skillicons.dev/icons?i=codepen" height="38" />
+</a>
+<a href="https://gitlab.com/RaihanAizvan">
+  <img src="https://skillicons.dev/icons?i=gitlab" height="38" />
+</a>
 
 </div>
 
+
 ---
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="50"> ***Let's Connect***
 
 <div align="center">
 
-###  **Find Me Across The Digital Universe**
+| Contribution Stats |
+|-------------------|
+| ![snake](https://github.com/RaihanAizvan/RaihanAizvan/blob/output/github-snake-dark.svg) |
 
-<a href="https://www.linkedin.com/in/mohammedraihanas">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:mohammedraihanco@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://raihanaizvan.github.io/Porfolio">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://github.com/RaihanAizvan">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+
+
+
+<!--###  **Contribution Graph**
+[![Raihan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaihanAizvan&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/RaihanAizvan)-->
+
+</div>
+
+
+
   
 
 
-###  **Always Open For:**
+<!--###  **Always Open For:**
 -  Exciting project collaborations
 -  Freelance opportunities
 -  Open source contributions
--  Tech discussions and mentoring
+-  Tech discussions and mentoring -->
 
 </div>
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 
 ###  ***Profile Views*** 
@@ -164,4 +191,4 @@ const Me = {
 
 **⭐ Star some repositories if you find them interesting!**
 
-</div>
+</div> -->
