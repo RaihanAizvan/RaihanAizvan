@@ -124,8 +124,6 @@ const Me = {
   <img src="https://skillicons.dev/icons?i=github" height="38" />
 </a>
 
-<br/>
-
 <a href="https://stackoverflow.com/users/22655498/mhd-raihan">
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="38" />
 </a>
