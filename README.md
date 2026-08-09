@@ -117,7 +117,7 @@ const Me = {
 <a href="mailto:mohammedraihanco@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="38" />
 </a>
-<a href="https://raihanaizvan.github.io/Porfolio">
+<a href="https://muhammedraihan.com">
   <img src="https://skillicons.dev/icons?i=vercel" height="38" />
 </a>
 <a href="https://github.com/RaihanAizvan">
